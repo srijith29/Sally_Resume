@@ -1,0 +1,23 @@
+
+body{
+	background:#FFEEAD;
+	border-left: 40px;
+}
+h1,h3{
+	color:;
+}
+a:link
+{
+	color:#FF6F69;
+}
+a:hover
+{
+	font-size:150%;
+	font-family:helvetica;
+}
+a:visited{
+	color:#FFCC5C;
+}
+.jobtitle
+{color:#FF6F69;}
+
